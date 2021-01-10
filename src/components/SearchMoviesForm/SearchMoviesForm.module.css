@@ -1,0 +1,8 @@
+.searchForm {
+  display: block;
+  width: 400px;
+  margin: 20px auto;
+}
+.searchFormInput {
+  width: 300px;
+}

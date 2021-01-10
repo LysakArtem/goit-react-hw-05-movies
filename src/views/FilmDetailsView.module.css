@@ -1,0 +1,35 @@
+.buttonBack {
+  margin: 20px;
+  font-weight: 500;
+}
+.filmDitails {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.poster {
+  width: 250px;
+  margin-right: 20px;
+}
+.ganre {
+  margin-right: 6px;
+}
+
+.additingInformation {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  padding: 10px;
+}
+
+.link {
+  display: block;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.activeLink {
+  font-weight: 600;
+}
